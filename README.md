@@ -1,4 +1,4 @@
-#  <img src="./ScreenShots/App_Icon.png" width='20'>ouniversity OnBoarding_Demo 
+#  <img src="./ScreenShots/App_Icon.png" width='30'>ouniversity OnBoarding_Demo 
 
 #### Youniversity is a OnBoarding_demoUI created with Android Studio. 
 

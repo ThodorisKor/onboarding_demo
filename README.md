@@ -37,35 +37,35 @@ $ git clone https://github.com/ThodorisKor/onboarding_demo.git
 ### Το UI αποτελείται ως Εξής : 
 - Αρχικά υπάρχει μια καρτέλα υποδοχής του χρήστη.
 
-    <img src="./1_card.png" alt="card 1" width="210" height="400">
+    <img src="./ScreenShots/1_card.png" alt="card 1" width="210" height="400">
 
 - Στην συνέχεια ο χρήστης μπορεί να κάνει 'slide' προς τα δεξιά ή να πατήσει το κουμπί 'next' για να μεταφερθεί στην επόμενη καρτέλα.
     
-    <img src='./2_card.png' alt='card 2' width='210' height='400'>
+    <img src='./ScreenShots/2_card.png' alt='card 2' width='210' height='400'>
 
 - > Επίσης εμφανίζεται ένα κουμπί 'back' , το οποίο επιτρέπει τον χρήστη να πάει πίσω στην προηγούμενη καρτέλα ή μπορεί να κάνει 'slide' αριστερά και επίσης θα εκτελεστεί η ίδια λειτουργία.
 - Έπειτα υπάρχει ένα drop down menu , στο οποίο ο χρληστης μπορεί να επιλέξει την σχολή που τον ενδιαφέρει να κάνει login.
 
-    <img src='./3_card.png' alt='card 2' width='210' height='400'>
+    <img src='./ScreenShots/3_card.png' alt='card 2' width='210' height='400'>
 - > Ο χρήστης επιλέγει κάποια σχολή.
 
 - Ανάλογα με την επιλογή του εμφανίζεται και το logo της εκάστοτε σχολής όπως παρουσιάζεται παρακάτω
 
-    <img src='./3_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
-    <img src='./4_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
-    <img src='./5_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
-    <img src='./6_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/3_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/4_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/5_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/6_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
 - Τέλος αφού επιλέξει την σχολή του και κάνει 'slide' η πατήσει 'next' εμφανίζεται ένα login form , στο οποίο καλείται ο χρήστης να συμπληρώσει τα τους προσωπικούς κωδικούς του.
 
-    <img src='./7_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/7_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
 
 - > ο χρήστης συμπληρώνει τα στοιχεία του.
 
-    <img src='./8_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/8_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
 
 - Τέλος με το πάτημα του κουμπιού 'finish' , εμφανίζεται μια dummy καρτέλα , επιβεβαιώνοντας τον χρήστη οτι έκανε login.
 
-    <img src='./9_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
+    <img src='./ScreenShots/9_card.png' alt='card 2' width='210' height='400'>&nbsp;&nbsp;
         
 - ### Η εφαρμογή απαπτύχθηκε μέχρι το σημείο όπου :   
    - O χρήστης μπορεί να επιλέξει το πανεπηστήμιο στο οποίο θέλει να συνδεθεί.
